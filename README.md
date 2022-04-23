@@ -17,7 +17,7 @@
 2.  Removed all class designations from search-engine-optimization, social-media-marketing, online-reputation-management, their img tags and h2 tags
 3.  Removed all .header ul and li elements from CSS and replaced with simply li, as there is only one list to contend with on this page
 4.  Changed .benefits to aside to style aside tag as this was changed in the HTML
-5.  Condensed .benefit-lead .benefit-cost and .benefit-brand to one line using "," to separate each class
+5.  Condensed .benefit-lead .benefit-cost and .benefit-brand to one class of benefits and condensed CSS from 3 selectors to 1.
 6.  Condensed .benefit-lead h3 .benefit-cost h3 and .benefit-brand h3 to one line using "," to separate each class
 7.  Condensed .benefit-lead img .benefit-cost img and .benefit-brand img to one line using "," to separate each class
 8.  Condensed .search-engine-optimization, .social-media-marketing, .online-reputation-management (and changed from class selectors to ID selectors using #) to one line so it now reads #search-engine-optimization, #social-media-marketing, #online-reputation-management{
